@@ -42,7 +42,21 @@
 ![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=Solana)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 
-### &nbsp;Technical Content Hobby 🎋
+### &nbsp;Technical Content Writing Portfolio 🎋
+
+[Docker vs. Kubernetes](https://www.varonis.com/blog/docker-vs-kubernetes)&nbsp;
+
+[In-Depth Guide to Digital Experience Monitoring](https://www.pingdom.com/blog/In-depth-Guide-to-Digital-Experience-Monitoring/)&nbsp;
+
+[How Blue-Green Deployments Work in Practice](https://earthly.dev/blog/blue-green/)&nbsp;
+
+[How to Test HTTP/2 APIs](https://speedscale.com/how-to-test-http-2-apis/)&nbsp;
+
+[Datadog vs. New Relic: Kubernetes Monitoring Options](https://www.containiq.com/post/datadog-vs-new-relic)&nbsp;
+
+[Skaffold vs Tilt vs DevSpace](https://loft.sh/blog/skaffold-vs-tilt-vs-devspace/)&nbsp;
+
+[USING HEROKU PREBOOT FOR ZERO-DOWNTIME DEPLOYS](https://railsautoscale.com/heroku-preboot/)&nbsp;
 
 View more than 10 LIVE articles on my [Linktree](https://linktr.ee/rus1Q3?utm_source=linktree_profile_share&ltsid=b0421f6a-fbbe-4143-8028-84b69d97e2c1)
 
