@@ -1,12 +1,5 @@
 ### Hi there... Tau here! 👋
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 - 🔭 I’m currently working on a few personal projects to improve my Web3.0 dev skills. 
 - 🌱 I’m currently learning the ASS = Anchor, Solana, and Svelte 🍑 Stack
 - 👯 I’m looking to collaborate on DeFi, Games, Useful dApps, and NFT related projects
