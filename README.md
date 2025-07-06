@@ -1,11 +1,11 @@
 ### Hi there... Tau here! 👋
 
 - 🔭 I’m currently working on a few personal projects to improve my Web3.0 dev skills. 
-- 🌱 I’m currently learning the ASS = Anchor, Solana, and Svelte 🍑 Stack
+- 🌱 I’m currently learning blockchain security methods
 - 👯 I’m looking to collaborate on DeFi, Games, Useful dApps, and NFT related projects
-- 🤔 I’m looking for help with getting me interested in your projects
+- 🤔 I’m looking for interesting projects to get involved in
 - 💬 Ask me about why Blockchain development will save the Crypto industry as a whole
-- 📫 How to reach me: Twitter is best <a href="https://twitter.com/rusiqe"><img src="https://img.shields.io/badge/-twitter?style=flat&logo=Twitter&logoColor=white"/></a>
+- 📫 How to reach me: X is best <a href="https://twitter.com/rusiqe"><img src="https://img.shields.io/badge/-twitter?style=flat&logo=Twitter&logoColor=white"/></a>
 - 😄 Pronouns: He/Him/That guy
 
 ### ⚙️ &nbsp;GitHub Analytics
